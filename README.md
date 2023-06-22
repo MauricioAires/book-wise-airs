@@ -48,6 +48,21 @@ Para rodar a aplicação em modo de desenvolvimento, utilize o seguinte comando:
 ```bash
   $ npm run dev
 ```
+Criar as migrates
+
+```bash
+  $ npx prisma migrate dev
+```
+Criar as migrates
+
+```bash
+  $ npx prisma migrate dev
+```
+Popular banco de dados com as seeds
+
+```bash
+  $ npx prisma db seed
+```
 
 
 
