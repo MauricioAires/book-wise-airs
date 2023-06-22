@@ -1,34 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ![cover](./.github/assets/cover.png)
 
-## Getting Started
 
-First, run the development server:
+### 🎉 Sobre o projeto
+...
+---
+
+### 🛠️ Tecnologias
+
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/)
+- [Prisma](https://www.prisma.io/)
+- [Google APIs](https://developers.google.com/apis)
+- [Google Cloud Platform](https://cloud.google.com/)
+- [Docker](https://www.docker.com/)
+- [Axios](https://axios-http.com/)
+- [Next SEO](https://github.com/garmeeh/next-seo)
+- [Nookies](https://github.com/maticzav/nookies)
+- [React Hook Form](https://react-hook-form.com/)
+- [Design System](https://www.designsystem.com/)
+- [Stitches (CSS-in-JS)](https://stitches.dev/)
+- [Phosphor icons](https://phosphoricons.com/)
+- [ESLint](https://eslint.org/)
+- [date-fns](https://date-fns.org/)
+- [Zod](https://github.com/colinhacks/zod)
+
+
+### 🔧 Instalação
+
+1. Clone este repositório em sua máquina local:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+$ git clone https://github.com/MauricioAires/book-wise-airs
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Na pasta raiz do projeto, instale as dependências:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+  $ npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### ⚙️ Utilização
 
-## Learn More
+Para rodar a aplicação em modo de desenvolvimento, utilize o seguinte comando:
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+  $ npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🤝 Contribuição
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contribuições são bem-vindas! Para contribuir, basta abrir uma issue ou pull request neste repositório.
+
+### 📝 Licença
+
+Este projeto está sob a licença MIT.
+Veja [LICENSE](LICENSE) para mais informações.
+
+---
+
+### 👨‍💻 Autor
+
+Feito com 💙 by Mauricio Aires
