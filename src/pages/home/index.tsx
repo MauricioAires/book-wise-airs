@@ -1,7 +1,12 @@
+import { Menu } from '@/components/Menu'
+
+import * as S from './styles'
+
 export default function Home() {
   return (
-    <div>
+    <S.Container>
+      <Menu />
       <h1>Mauricio Aires</h1>
-    </div>
+    </S.Container>
   )
 }
